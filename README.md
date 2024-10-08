@@ -1,2 +1,2 @@
-# Portif-lio
+# Portifolio
 Portifólio criado para colocar em práticas conhecimentos sobre html, css e JavaScript.
